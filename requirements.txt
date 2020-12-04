@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+pathvalidate
+pandas
+gensim
+spacy
+# ------------------- ADITIONAL
+pyLDAvis
+matplotlib
+nltk
+fsspec
+# ------------------- SWAGGER MANIPULATION
+prance
+openapi-spec-validator
