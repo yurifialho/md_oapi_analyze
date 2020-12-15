@@ -12,3 +12,6 @@ fsspec
 # ------------------- SWAGGER MANIPULATION
 prance
 openapi-spec-validator
+
+wordcloud
+seaborn
